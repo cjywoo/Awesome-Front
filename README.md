@@ -3,6 +3,21 @@
 
 
 ## UI规范
+[前端布局推进剂 - 间距规范化](https://juejin.im/post/5ad0a366f265da239b41dbaf)
+[前端css命名方式探讨](https://juejin.im/post/5ba862d9f265da0ae472868a)
 
 ## UI设计精华
 [淘宝2018首页布局](https://juejin.im/entry/5be98e0351882518805aac2e?utm_source=gold_browser_extension)
+
+## 前端性能
+[如何把握前端性能](https://juejin.im/post/5b9e61b15188255c980bc6fd)
+
+## 未来可观的工作流
+* 确定UI设计规范及基准
+* 需求确立，根据UI规范和基准，绘制UI原型图
+* 对于一些用户体验较高的需求，考虑绘制动效图
+* 根据原型图，确立技术实现方案，比如是否需要骨架屏、数据加载方式、布局方案、UI动效、使用的组件等
+* 根据技术实现方案，进行项目开发
+* 项目自测，并进行生产环境版本的编译及打包
+* 设备测试
+* 投产
